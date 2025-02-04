@@ -4,9 +4,9 @@ I'm a Data Science graduate passionate about data analysis, machine learning, an
 
 🔹 Key Skills: Python, SQL, R, PHP Laravel, Data Analysis, Machine Learning\
 🔹 Projects: ML-based classification, social media analytics, web development\
-🔹 Tech Stack: Jupyter Notebook, Docker, Linux, MySQL, Git\
+🔹 Tech Stack: Jupyter Notebook, Docker, Linux, MySQL, Git
 
-I'm always keen to learn new technologies and collaborate on innovative projects. Feel free to connect or check out my work! 🚀\
+I'm always keen to learn new technologies and collaborate on innovative projects. Feel free to connect or check out my work! 🚀
 
 [LinkedIn](https://www.linkedin.com/in/shakya-fernando-06a9a4190/)
 <!--
