@@ -8,7 +8,7 @@ I'm a Data Science graduate passionate about data analysis, machine learning, an
 
 I'm always keen to learn new technologies and collaborate on innovative projects. Feel free to connect or check out my work! 🚀
 
-[LinkedIn](https://www.linkedin.com/in/shakya-fernando-06a9a4190/)
+Check out my [LinkedIn](https://www.linkedin.com/in/shakya-fernando-06a9a4190/)
 <!--
 **Shakya-Fernando/Shakya-Fernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
