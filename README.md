@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-I'm a Data Science graduate passionate about data analysis, machine learning, and software development. My experience spans across research and university projects, where I’ve helped trained machine learning models, processed large-scale datasets, and built full-stack web applications.
+I'm a Data Science graduate passionate about data analysis, machine learning, and software development. My experience spans across university projects and work, where I’ve helped train machine learning models, process large-scale datasets, build full-stack web applications, and gather data for analysis and visualisation.
 
-- Key Skills: Python, SQL, R, PHP Laravel, Data Analysis, Machine Learning\
--  Projects: ML-based classification, social media analytics, web development\
+-  Key Skills: Python, SQL, R, PHP Laravel, Data Analysis, Machine Learning
+-  Projects: ML-based classification, social media analytics, web development
 -  Tech Stack: Jupyter Notebook, Docker, Linux, MySQL, Git
 
 I'm always keen to learn new technologies and collaborate on innovative projects. Feel free to connect or check out my projects!
