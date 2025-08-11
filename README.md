@@ -3,9 +3,9 @@
 I'm a Data Science graduate passionate about data analysis, machine learning, and software development. My experience spans across university projects and work, where I’ve helped train machine learning models, process large-scale datasets, build full-stack web applications, and gather data for analysis and visualisation.
 
 -  Languages: Python, R, SQL, PHP (Laravel), Bash, HTML, CSS
--  Tools & Platforms: Jupyter Notebook, Docker, Linux, MySQL, Git
+-  Tools & Platforms: Jupyter Notebook, Gradio, Docker, Linux, MySQL, Git
 -  Projects: ML-based classification, social media analytics, web development
--  Key Skills: Data Analysis and Machine Learning
+-  Key Skills: Data Analysis/Visualisation and Machine Learning
 
 I'm always keen to learn new technologies and collaborate on innovative projects. Feel free to connect or check out my projects!
 
